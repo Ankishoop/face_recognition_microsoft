@@ -21,9 +21,6 @@ function Home() {
         typewriter.typeString("Handpose")
         .pauseFor(1000)
         .deleteChars(8)
-        typewriter.typeString("Eyecontrol")
-        .pauseFor(1000)
-        .deleteChars(10)
         .start()
       }}
       options={{
