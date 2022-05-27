@@ -1,0 +1,17 @@
+.home_main_container
+{
+    
+    display: flex;
+    align-items: center;
+    height: 500px;
+    justify-content: center;
+    font-size: 97px;
+    color: gray;
+    font-family: 'Lobster', cursive;
+}
+.home_heading
+{
+    color: #fff;
+    margin-right: 20px;
+}
+
